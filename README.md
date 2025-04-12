@@ -30,6 +30,8 @@ How It Works:
 5. The result is displayed along with a message and background color based on the BMI range.
 
 ##output
+
+
 ![WhatsApp Image 2025-04-13 at 03 28 59_69a208bf](https://github.com/user-attachments/assets/d7b16955-c03d-423b-bc8b-a24b47192497)
 ![WhatsApp Image 2025-04-13 at 03 28 59_6b012e78](https://github.com/user-attachments/assets/4bf20f0f-8061-4a4e-8203-edc0a9a1a8d6)
 ![WhatsApp Image 2025-04-13 at 03 29 00_20e5a7b0](https://github.com/user-attachments/assets/43cb1839-51e0-4c05-85ac-cfa818e6757b)
